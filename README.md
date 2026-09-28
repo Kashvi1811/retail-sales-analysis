@@ -1,8 +1,8 @@
-<![CDATA[<p align="center">
-  <img src="banner.jpg" alt="Retail Sales Analysis 2019 Banner" width="100%"/>
+<p align="center">
+  <img src="banner.jpg" alt="Retail Sales Analysis Banner" width="100%"/>
 </p>
 
-<h1 align="center">🛒 Retail Sales Analysis 2019</h1>
+<h1 align="center">🛒 Retail Sales Analysis</h1>
 
 <p align="center">
   <b>End-to-end Exploratory Data Analysis on 12 months of US retail sales data</b><br/>
@@ -264,4 +264,3 @@ jupyter notebook sales_data.ipynb
 <p align="center">
   <i>⭐ If you found this project useful, please consider giving it a star!</i>
 </p>
-]]>
