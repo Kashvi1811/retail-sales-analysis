@@ -210,8 +210,7 @@ An interactive Power BI report (`Retail Sales Analysis Report.pbix`) is included
 - 📦 Product-level analysis
 - 🕐 Hourly demand patterns
 
-> To open it, download [Microsoft Power BI Desktop](https://powerbi.microsoft.com/desktop/) (free) and open the `.pbix` file.
-> or access the Power BI report using the link -  https://app.powerbi.com/groups/me/reports/a6f43956-e390-4e00-80ac-2e3b59614ed6/e87259baa37112b01958?experience=power-bi
+> To open it, download [Microsoft Power BI Desktop](https://powerbi.microsoft.com/desktop/) (free) and open the `.pbix` file or access the Power BI report using the link -  [Retail Sales Analysis Report](https://app.powerbi.com/groups/me/reports/a6f43956-e390-4e00-80ac-2e3b59614ed6/e87259baa37112b01958?experience=power-bi)
 
 ---
 
